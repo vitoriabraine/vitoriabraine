@@ -1,7 +1,6 @@
-### Olá, eu sou a Vitória   🖤
+### Olá, eu sou a Vitória   🖤🌧️
 
-
-🖤
+🌧️
 <!--
 **vitoriabraine/vitoriabraine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
