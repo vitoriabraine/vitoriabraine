@@ -1,5 +1,6 @@
 ### Olá, eu sou a Vitória   🖤 🌧️
 
+![image](https://user-images.githubusercontent.com/132674209/236486545-6c5c491f-9bff-4176-8737-eb7594e948e1.png)
 
 <!--
 **vitoriabraine/vitoriabraine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
